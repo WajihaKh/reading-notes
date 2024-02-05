@@ -14,10 +14,10 @@ A growth mindset is a belief that ones ability to improve is through hard work a
 
 *Remind yourself that you can overcome an obstacle and believe in yourself. Confusion is temporary.*
    
-**1. Practice**
+**2. Practice**
 
 *Putting in thirty to an hour worth of practice everyday will imrpove your skill significantly.*
 
-**1. Learn From Mistakes**
+**3. Learn From Mistakes**
 
 *Reflect on what went wrong, strategize on how you can improve.*
