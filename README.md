@@ -11,5 +11,11 @@ A growth mindset is a belief that ones ability to improve is through hard work a
 ### Self Improvement Strategies ###
 
 1. Positive Attitude
+
+
+   
 1. Practice
+
+
+
 1. Learn From Mistakes
