@@ -2,9 +2,7 @@
 
 ## Growth Mindset
 
-> Doubt kills more dreams than failure ever will
-
->  -Suzy Kassem
+> Doubt kills more dreams than failure ever will -Suzy Kassem
 
 **What is a _growth mindset_?**
 
