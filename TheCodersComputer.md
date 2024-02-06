@@ -21,7 +21,7 @@
 
 **mkdir**
 
-*Remove directory*
+*Create directory*
 
 **touch**
 
@@ -29,7 +29,7 @@
 
 **cd projects** transferring to the project directory
 
-**mkdir new-project** Removing the directory known as "new-project"
+**mkdir new-project** Create a the directory known as "new-project"
 
 **touch new-project/newfile.md** Creates a file called "newfile.md"
 
