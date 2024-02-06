@@ -2,7 +2,6 @@
 
 ## Growth Mindset
 
-[Markdown](./Markdown.md)
 
 > Doubt kills more dreams than failure ever will -Suzy Kassem
 
