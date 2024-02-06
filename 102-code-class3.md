@@ -1,6 +1,4 @@
 # Revisions and the Cloud
-What is the command to take a snapshot of your changed files?
-What is the command to send your changed files to Github?
 
 ### What is Version control? ###
 
@@ -12,8 +10,14 @@ What is the command to send your changed files to Github?
 
 ### What is the command to track and stage files?
 
-*The command to track and stage files is: git add filename (for single file) and $ git add * (all files)*
+*The command to track and stage files is:* git add filename *(for single file)* and $ git add * *(all files)*
 
 ### What is the command to take a snapshot of your changes files?
+
+$ git commit -a
+
+### What is the command to send your changed files to Github?
+
+$ git push origin master
 
 
