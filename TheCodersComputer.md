@@ -1,29 +1,29 @@
 # The Coders Computer
 
-##What are _four_ important features to look for in a text editor?##
+**What are _four_ important features to look for in a text editor?**
 
 1. Code Completion
 2. Syntax highlighting
 3. A nice variety of themes
 4. Ability to choose from a healthy selection of extensions
 
-##pwd##
+**pwd**
 
 *Print working directory: shows you, your current directory*
 
-##ls##
+**ls**
 
 *List: shows you what is inside of the directory*
 
-##cd##
+**cd**
 
 *Change directory: allows you to move around in the system*
 
-##mkdir##
+**mkdir**
 
 *Remove directory*
 
-##touch##
+**touch**
 
 *Creates a nonexistent file?*
 
