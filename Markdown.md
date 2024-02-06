@@ -23,11 +23,11 @@
 ## When making text bold or italicized for emphasis, it is best practice to use which symbol? ##
 
 *To create a bold text or italicized words, you would use the asterisk sign (*)*
-*one asterisk would turn the words italicized and two asterick signs would make the word bold.*
+*one asterick would turn the words italicized and two asterick signs would make the word bold.*
 
 ## How do you create a link with Markdown? ##
 
-*To create a link with markdown you would first put a left open bracket ([) with the title of the page then close it with the right bracket (]) Then you would put the left ( paranthesis, inside of that would the url of that page from which you are referring the title to and then close it with the right paranthesis )*
+*To create a link with markdown you would first put a left open bracket ([) with the title of the page then close it with the right bracket (]) Then you would put the left ( parentheses, inside of that would the url of that page from which you are referring the title to and then close it with the right parentheses )*
 
 
  ## What are the three symbols you can use to create an unordered (bulleted) list with Markdown? ##
