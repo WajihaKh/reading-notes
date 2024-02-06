@@ -1,11 +1,5 @@
 # Markdown
 
-
-
-When making text bold or italicized for emphasis, it is best practice to use which symbol?
-How do you create a link with Markdown?
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
-
 ## What is Markdown? ##
 
 *Markdown is a lightweight markup language for making formatted text that is used in a plain text editor.*
@@ -33,5 +27,9 @@ What are the three symbols you can use to create an unordered (bulleted) list wi
 
 ## How do you create a link with Markdown? ##
 
-*To create a link with markdown you would first put a left open bracket ([) with the title of the page then close it with the right bracket (]) Then you would put the left ( paranthesis, inside of that would the url of that page from which you are referring the title to and then close it with the right paranthesis )
- 
+*To create a link with markdown you would first put a left open bracket ([) with the title of the page then close it with the right bracket (]) Then you would put the left ( paranthesis, inside of that would the url of that page from which you are referring the title to and then close it with the right paranthesis )*
+
+
+ ## What are the three symbols you can use to create an unordered (bulleted) list with Markdown? ##
+
+*The three symbols you can use to create an unordered list with markdown are: dash (-), asterick (*) and the plus sign (+)*
