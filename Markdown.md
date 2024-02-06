@@ -6,7 +6,7 @@
 
 ## Why do we use Markdown? ##
 
-*Markdown is everywhere and can be used everywhere it is also easy to use once you get the hang of it. It is portable meaning you can chose any application to run it through and tt can also be preserved.
+*Markdown is everywhere and can be used everywhere it is also easy to use once you get the hang of it. It is portable meaning you can chose any application to run it through and tt can also be preserved.*
 
 ## What symbol will create a heading in Markdown? ##
 
