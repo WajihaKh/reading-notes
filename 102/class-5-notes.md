@@ -17,5 +17,3 @@ The purpose for CSS is to make pages look more aesthetic to the eye. It styles t
 p{
     colour:red;
 }
-
-testing
