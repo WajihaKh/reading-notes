@@ -6,4 +6,4 @@
 
 ## When does a for loop stop executing? *A for loop starts executing when the value of a condition is false*
 
-## How many times will a while loop execute? *A while loop wil execute depending on the specified condition, it will loop until the condition returns false*
+## How many times will a while loop execute? *A while loop will execute depending on the specified condition, it will loop until the condition returns false*
