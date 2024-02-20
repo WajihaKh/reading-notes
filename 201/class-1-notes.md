@@ -43,11 +43,11 @@ The difference is an article is used for individual content while section is use
 
 ## What Elements does a “typical” website include?
 
-A typical website includes a header, navigation bar, main content, sidebar, and a footer. 
-
 [HMTL Document Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 ## How does metadata influence Search Engine Optimization?
+
+Metadata influences searchs by including relevant content of a webpage.
 
 ## How is the "<"meta">" HTML tag used when specifying metadata?
 
@@ -73,7 +73,10 @@ The benefits of using semantic tags in HTML are it'll tell the search engine tha
 
 ## Describe 2 things that require JavaScript in the Browser?
 
+Creates validation and dynamic content.
 
 ## How can you add JavaScript to an HTML document?
 
 You can add JavaScript to an html document by creating a script tag with a src attribute to the JavaScript file.
+
+## Things I Want To Know More About
