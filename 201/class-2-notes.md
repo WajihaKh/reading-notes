@@ -34,27 +34,26 @@ We should avoid using inline styles because it can become a clutter mess.
 
 The data type in a single quote marks is a string
 
-## List 4 types of JavaScript operators.
+## List 4 types of JavaScript operators
 
 - addition, subtraction, multiplcation, division
 - assignment
 - strict equality
 - not, does not equal
 
-## Describe a real world Problem you could solve with a Function.
+## Describe a real world Problem you could solve with a Function
 
 A real world problem you solve with a function could be getting a result of an equation.
 
-## An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+## An if statement checks a __ and if it evaluates to ___, then the code block will execute
 
 condition and true
-
 
 ## What is the use of an else if?
 
 The use of an else if would be to test multiple conditions
 
-## List 3 different types of comparison operators.
+## List 3 different types of comparison operators
 
 - === and !==
 - < and >
@@ -63,3 +62,5 @@ The use of an else if would be to test multiple conditions
 ## What is the difference between the logical operator && and ||?
 
 The && operator is used for "and" and the || is used for "or"
+
+## Things I want to know more about
