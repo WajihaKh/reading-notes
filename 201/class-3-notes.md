@@ -33,7 +33,7 @@ The data types you can store inside of an array are strings, numbers, booleans a
 
 ## Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
-yes it is, 
+yes it is, you can access the stored values by using array indexing
 
 ## List five shorthand operators for assignment in javascript and describe what they do
 
