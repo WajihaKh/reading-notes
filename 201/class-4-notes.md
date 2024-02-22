@@ -28,7 +28,7 @@ static
 
 ## Name a few advantages to using absolute positioning on an element
 
-Some advantages are that it does not interfere with the layout of other elements and the positioning behaves differently by specifying the distance it should be. 
+Some advantages are that it does not interfere with the layout of other elements and the positioning behaves differently by specifying the distance it should be.
 
 ## What is a key difference between fixed positioning and absolute positioning?
 
@@ -45,3 +45,4 @@ The difference is that a parameter is listed inside of a function declaration an
 ## Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey
 
 Two benefits to pair programming for me would be:
+Engaged collaboration and learning from fellow students. This can help me by procrastinating less and focusing on the task at hand. It'll help both me and my teammate by constantly teaching each other things.
