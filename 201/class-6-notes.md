@@ -13,7 +13,7 @@ Its easy to use, its readable and allows code to be read easier, its efficient.
 
 Arrays are stored lists of data elementd while objects are stored data as key values.
 
-## Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
+## Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation
 
 You can use bracket notation when you need to access property names dynamics.
 
@@ -28,3 +28,5 @@ DOM is the web documents, represents pages.
 ## Briefly describe the relationship between the DOM and JavaScript
 
 The relationship between DOM and JavaScript is that they work hand in hand. Dom is written is js and js uses dom to access the document.
+
+## THING I WANT TO LEARN ABOUT
