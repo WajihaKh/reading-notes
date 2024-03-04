@@ -8,7 +8,7 @@ Forms are important because because they allow users to input data. It also coll
 
 When designing a form, remember to clarify, keep the form with only essential information, also keep in mind about different screen sizes.
 
-## List 5 form elements and explain their importance.
+## List 5 form elements and explain their importance
 
 - text input, allows user to enter their info
 - dropdown menu, simplifies selection
