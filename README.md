@@ -33,6 +33,7 @@ Hello! My name is Wajiha Khan or "G". I love to doodle here and there with the h
 - [Class 12](https://github.com/WajihaKh/reading-notes/blob/main/201/class-12-notes.md)
 - [Class 13](https://github.com/WajihaKh/reading-notes/blob/main/201/class-13-notes.md)
 - [Class 14](https://github.com/WajihaKh/reading-notes/blob/main/201/class-14-notes.md)
+- [Class 14 PSYCHOLOGICAL SAFETY](https://github.com/WajihaKh/reading-notes/blob/main/201/Psychological-Safety)
 - [Class 15](https://github.com/WajihaKh/reading-notes/blob/main/201/class-15-notes.md)
 
 ### Class 301
