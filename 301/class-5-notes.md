@@ -42,4 +42,3 @@ In line 2 of the greaterThan function, we are creating a new function. This new 
 __Explain how either map or reduce operates, with regards to higher-order functions.__
 
 The map operator is like a tool for transforming each item in an array. The reduce operator is like a tool for combining all the items in the arrow into a single value. Both functions make working with array easier by letting you describe what you want to do with the item.
-
