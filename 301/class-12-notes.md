@@ -48,7 +48,7 @@ Captures a variable value from the URL. Placeholder that represents a specific i
 
 - PUT: When you want to replace a resource entirely with the provided representation.
 
-- PATCH: When you want to apply partial updates to a resource by specifying only the fields that need to be changed. More suitable for updating specific parts of a resource without affecting the entire resource representation. 
+- PATCH: When you want to apply partial updates to a resource by specifying only the fields that need to be changed. More suitable for updating specific parts of a resource without affecting the entire resource representation.
 
 **How do you make a default value in a schema?**
 
