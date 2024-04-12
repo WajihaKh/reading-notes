@@ -16,6 +16,6 @@
 
 - Diverse teams are smarter and more creative because they bring different perspectives to solving problems. Research shows that diverse companies also tend to have better financial outcomes.
 
-**Give an example of how a diverse company can serve a diverse user base or vice versa**
+**Give an example of how a diverse company can serve a diverse user base or vice versa**:
 
 - A diverse company can serve its users better when its employees reflect the diversity of those users. For instance, when YouTube's team was mostly right-handed, they overlooked how left-handed users would interact with their app, leading to technical issues. Similarly, if Twitter had more diversity in its teams, they might develop more engaging features for Black/African users.
