@@ -1,0 +1,3 @@
+# The Command Line
+
+**The article teaches essential Linux file system skills, emphasizing organization and basic commands like mkdir, rmdir, and touch for creating directories and files. It highlights the importance of understanding absolute and relative paths and demonstrates copying, moving, and renaming files using cp and mv. It also covers removing files and directories with rm, cautioning about irreversible actions. The importance of exploring command options is emphasized, along with the absence of an undo feature in the command line. Overall, it provides a practical foundation for navigating and manipulating files in Linux.**
